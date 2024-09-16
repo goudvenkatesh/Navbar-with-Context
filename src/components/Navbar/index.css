@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.nav-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  width: 100%;
+}
+.navbar-bg-dark {
+  background-color: #333333;
+}
+.navbar-bg-light {
+  background-color: #dcdcdc;
+}
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.nav-elements {
+  display: flex;
+}
+.list-item {
+  list-style-type: none;
+  margin-left: 10px;
+}
+.logo {
+  width: 45px;
+}
+.theme-img {
+  width: 45px;
+}
+.button {
+  border: none;
+}

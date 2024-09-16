@@ -1,0 +1,25 @@
+/* Write your CSS here */
+/* Write your CSS here */
+/* Write your CSS here */
+.not-found-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-bg-dark {
+  background-color: #000000;
+}
+.not-found-bg-light {
+  background-color: #ffffff;
+}
+
+.not-found-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.random-img {
+  width: 300px;
+}
